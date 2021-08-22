@@ -52,11 +52,7 @@ Keyboard should now be ready to go!
 ## Resources
 
 
-- [Useful discussion on programming
-- layouts](https://www.reddit.com/r/MechanicalKeyboards/comments/5o6dkd/layouts_for_programming_on_a_minivan/)
-- Other interesting layouts: [1](https://imgur.com/gallery/RrfHy),
-- [2](http://www.keyboard-layout-editor.com/#/gists/34112fcba561109d8516e2a64783120c),
-- [3](https://medium.com/@jack_21924/crackle-keyboard-layout-for-special-characters-e4dd04838231),
-- [4](https://imgur.com/a/GPh48), [5](https://i.redd.it/7kppvdk3r2cy.png), [6](https://www.reddit.com/r/MechanicalKeyboards/comments/6qr917/my_bantam_44_build_with_bluetooth_and_some_rick/)
+- [Useful discussion on programming layouts](https://www.reddit.com/r/MechanicalKeyboards/comments/5o6dkd/layouts_for_programming_on_a_minivan/)
+- Other interesting layouts: [1](https://imgur.com/gallery/RrfHy), [2](http://www.keyboard-layout-editor.com/#/gists/34112fcba561109d8516e2a64783120c), [3](https://medium.com/@jack_21924/crackle-keyboard-layout-for-special-characters-e4dd04838231), [4](https://imgur.com/a/GPh48), [5](https://i.redd.it/7kppvdk3r2cy.png), [6](https://www.reddit.com/r/MechanicalKeyboards/comments/6qr917/my_bantam_44_build_with_bluetooth_and_some_rick/)
 - Keycap colors from PMK: White (WAN), Blue (BCT), Gray (GSF)
 
