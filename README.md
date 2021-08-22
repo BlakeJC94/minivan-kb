@@ -8,7 +8,7 @@ Numbers are on the left side, `0` sits on the `F` key (with `+` and `-` above an
 
 Brackets sit between the `F` and `J` keys on `G` and `H`, `=` sits on the `J` key (with `*` and `/` above and below on `U`and `M`). Symbols on RHS of Keyboard approximately match their corresponding numbers on the LHS.
 
-![Layout](./img/minivan.png)
+![Layout](minivan.png)
 
 This layout is available on [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/#/gists/365410b23a30fb67d62e4e6bd7175a9d)
 
